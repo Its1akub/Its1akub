@@ -44,6 +44,10 @@ I have worked on several projects, including:
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img align="left" alt="IntelliJ Idea" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/intellij-idea-1.svg?raw=true"/> </a>
 <a href="https://www.blender.org/" target="_blank"> <img align="left" alt="Blender" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/blender-2.svg?raw=true"/> </a>
 
+<br />
+<br />
+<br />
+
 ## Contact Me
 
 Feel free to reach out to me via:

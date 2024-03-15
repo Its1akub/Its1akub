@@ -1,16 +1,41 @@
-### Hi there 👋
+# About Me
 
-<!--
-**Its1akub/Its1akub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+Hello there! 👋 I'm Jacob, a passionate programmer based in Prague. I enjoy programming and cars, motorbikes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- **Name:** Jacob
+- **Location:** Prague
+- **Profession:** --------
+- **Interests:** Cars, motorbikes, PC games, building computers, Programing 
+- **Hobbies:** Programing,  Cars, motorbikes, PC games
+
+## Skills
+
+Here are some of the skills I possess:
+
+- Programming Languages: Java, Python
+- Technologies: Java Spring Boot, Maven, Web scraping ([HtmlUnit](https://github.com/HtmlUnit/htmlunit))
+- Soft Skills: Communication, teamwork, problem-solving
+
+## Projects
+
+I have worked on several projects, including:
+
+1. Currently working on [Chess](https://github.com/Its1akub/Chess) - Chess programmed in Java with a graphical environment, primitive AI, use of a matrix, etc. 
+2. [Game of life](https://github.com/Its1akub/VanocniProjekt)
+
+## Contact Me
+
+Feel free to reach out to me via:
+
+- Email: jacob.spernoga.contact@gmail.com
+- LinkedIn: [link](https://www.linkedin.com/in/jakub-spernoga)
+
+## Let's Connect
+
+I'm always open to new opportunities and collaborations. Let's connect and explore exciting ventures together!
+
+

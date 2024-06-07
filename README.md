@@ -24,7 +24,7 @@ Here are some of the skills I possess:
 
 I have worked on several projects, including:
 
-1. Currently working on [Chess](https://github.com/Its1akub/Chess) - Chess programmed in Java with a graphical environment, primitive AI, use of a matrix, etc. 
+1. Currently working on [Chess](https://github.com/Its1akub/Chess) - Chess programmed in Java with a graphical environment, primitive AI, etc. 
 2. [Game of life](https://github.com/Its1akub/VanocniProjekt)
 
 ### Language and Tools

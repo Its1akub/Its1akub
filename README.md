@@ -24,7 +24,7 @@ Here are some of the skills I possess:
 
 I have worked on several projects, including:
 
-1. Currently working on [Chess](https://github.com/Its1akub/Chess) - Chess programmed in Java with a graphical environment, primitive AI, etc. 
+1. [Chess](https://github.com/Its1akub/Chess) - Chess programmed in Java with a graphical environment, primitive AI, etc. 
 2. [Game of life](https://github.com/Its1akub/VanocniProjekt)
 
 ### Language and Tools
@@ -34,6 +34,8 @@ I have worked on several projects, including:
 <a href="https://maven.apache.org/" target="_blank"> <img align="left" alt="Maven" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/maven.png?raw=true"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/git-bash.svg?raw=true"/> </a>
 <a href="https://github.com/" target="_blank"> <img align="left" alt="Github" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/github-icon-1.svg?raw=true"/> </a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img align="left" alt="Html" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/html.svg?raw=true"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" alt="C#" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/c-sharp-logo.svg?raw=true"/> </a>
 
 <br />
 <br />
@@ -43,6 +45,8 @@ I have worked on several projects, including:
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="VS Code" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/visual-studio-code-1.svg?raw=true"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img align="left" alt="IntelliJ Idea" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/intellij-idea-1.svg?raw=true"/> </a>
 <a href="https://www.blender.org/" target="_blank"> <img align="left" alt="Blender" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/blender-2.svg?raw=true"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img align="left" alt="Visual Studio" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/visual-studio.svg?raw=true"/> </a>
+<a href="https://unity.com/" target="_blank"> <img align="left" alt="Unity" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/unity.svg?raw=true"/> </a>
 
 <br />
 <br />

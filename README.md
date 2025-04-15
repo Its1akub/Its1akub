@@ -16,16 +16,10 @@ Hello there! 👋 I'm Jacob, a passionate programmer based in Prague. I enjoy pr
 
 Here are some of the skills I possess:
 
-- Programming Languages: Java, Python
-- Technologies: Java Spring Boot, Maven, Web scraping ([HtmlUnit](https://github.com/HtmlUnit/htmlunit))
+- Programming Languages: C#, Java, Python, Javascript
+- Technologies: Maven, Web scraping ([HtmlUnit](https://github.com/HtmlUnit/htmlunit))
 - Soft Skills: Communication, teamwork, problem-solving
 
-## Projects
-
-I have worked on several projects, including:
-
-1. [Chess](https://github.com/Its1akub/Chess) - Chess programmed in Java with a graphical environment, primitive AI, etc. 
-2. [Game of life](https://github.com/Its1akub/VanocniProjekt)
 
 ### Language and Tools
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/python-5.svg?raw=true"/> </a>

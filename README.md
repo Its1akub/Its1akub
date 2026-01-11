@@ -19,6 +19,9 @@ Here are some of the skills I possess:
 - Programming Languages: C#, Java, Python, Javascript
 - Soft Skills: Communication, teamwork, problem-solving
 
+## Portfolio
+[routes to portfolio](https://github.com/Its1akub/projectPortfolio.git)
+
 
 ### Language and Tools
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="50px" src="https://github.com/Its1akub/Its1akub/blob/main/python-5.svg?raw=true"/> </a>

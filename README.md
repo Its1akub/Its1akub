@@ -12,15 +12,15 @@ Hello there! 👋 I'm Jacob, a passionate programmer based in Prague. I enjoy pr
 - **Interests:** Cars, motorbikes, PC games, building computers, Programing 
 - **Hobbies:** Programing,  Cars, motorbikes, PC games
 
+## Portfolio
+[routes to portfolio](https://github.com/Its1akub/projectPortfolio.git)
+
 ## Skills
 
 Here are some of the skills I possess:
 
 - Programming Languages: C#, Java, Python, Javascript
 - Soft Skills: Communication, teamwork, problem-solving
-
-## Portfolio
-[routes to portfolio](https://github.com/Its1akub/projectPortfolio.git)
 
 
 ### Language and Tools
